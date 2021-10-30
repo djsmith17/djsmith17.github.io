@@ -7,28 +7,31 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{djsmith17.github.io/files/DJSMITH_CV.pdf}
 
 Education
 ======
-* B.S. in Biomedical Engineering, Boston University, 2012
 * Ph.D in Computational Neuroscience, Boston University, 2020
   * Primary Investigator: Frank Guenther, PhD, Speech Lab
+* B.S. in Biomedical Engineering, Boston University, 2012
+
 
 Work experience
 ======
-* Graduate Research Fellow, Boston University Speech Lab (09/2012-01/2020)
-* Microsoft Student Partner, Microsoft Corp (08/2011-05/2012)
-* Undergraduate Research Assistant, Boston University Speech Lab (03/2011-09/2012)
-* Student IT Consultant, BU IT Help Center (08/2009-11/2011)
-* Beta-Tester, Eluma Corp (05/2007-09/2007)
+* Data Consultant, Linus Health                                  (02/2021 - 08/2021)
+* Graduate Research Fellow, Boston University Speech Lab         (09/2012 - 01/2020)
+* Microsoft Student Partner, Microsoft Corp                      (08/2011 - 05/2012)
+* Undergraduate Research Assistant, Boston University Speech Lab (03/2011 - 09/2012)
+* Student IT Consultant, BU IT Help Center                       (08/2009 - 11/2011)
+* Beta-Tester, Eluma Corp                                        (05/2007 - 09/2007)
   
 Skills
 ======
 * Programming
   * Python, MATLAB, R, SQL
-* Statistics
 * Signal Processing
+* GitHub, Bitbucket, Jira, Confluence
+
 
 Publications
 ======
@@ -42,12 +45,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2017 - Boston University Graduate Medical Sciences Travel Award
+* 2015 - NIH Research Supplement to Promote Diversity in Health-Related Research (R01DC002852)
+* 2015 - Henry I. Russek Student Acheievement Day Award (Third Place)
+* 2014 - Boston University CompNet Travel Award
+* 2013 - Computational Neuroscience Fellowship
+* 2008 - Eagle Scout Award
