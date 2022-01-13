@@ -15,7 +15,6 @@ Education
   * Primary Investigator: Frank Guenther, PhD, Speech Lab
 * B.S. in Biomedical Engineering, Boston University, 2012
 
-
 Work experience
 ======
 * Data Consultant, Linus Health                                  (02/2021 - 08/2021)
@@ -31,7 +30,6 @@ Skills
   * Python, MATLAB, R, SQL
 * Signal Processing
 * GitHub, Bitbucket, Jira, Confluence
-
 
 Publications
 ======

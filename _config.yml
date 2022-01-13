@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dante J. Smith, PhD"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dante J. Smith"
 description              : &description "personal description"
 url                      : https://djsmith17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,6 +86,7 @@ author:
   location         : "Lincoln, NE"
   employer         :
   pubmed           :
+  orcid            : "https://orcid.org/0000-0002-4144-5108"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=FpJVOwUAAAAJ"
   email            : "djsmith@bu.edu"
   researchgate     : "https://www.researchgate.net/profile/Dante_Smith"
@@ -103,7 +104,6 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/dante-smith"
-  orcid            : "https://orcid.org/0000-0002-4144-5108"
   pinterest        :
   soundcloud       :
   stackoverflow    :
