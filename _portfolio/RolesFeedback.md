@@ -1,6 +1,6 @@
 ---
 title: "The Roles of Auditory and Somatosensory Feedback in Vocal Motor Control"
-excerpt: "The Experiments and Analyses prepared for my Dissertation Defense<br/><img src='/images/Figure5a.jpg'>"
+excerpt: "The Experiments and Analyses prepared for my Dissertation Defense<br/><img src='/images/Figure3a.png'>"
 collection: portfolio
 ---
 
