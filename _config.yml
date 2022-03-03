@@ -159,7 +159,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-theme: cayman
+theme: minima
 
 
 # Markdown Processing
