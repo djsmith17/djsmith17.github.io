@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF here](https://djsmith17.github.io/files/DJSMITH_CV.pdf)
+
 Education
 ======
 * Ph.D in Computational Neuroscience, Boston University, 2020
@@ -17,6 +19,7 @@ Education
 
 Work experience
 ======
+* Computational Neuroscientist II, Neuraville                    (01/2022 - Present)
 * Data Consultant, Linus Health                                  (02/2021 - 08/2021)
 * Graduate Research Fellow, Boston University Speech Lab         (09/2012 - 01/2020)
 * Microsoft Student Partner, Microsoft Corp                      (08/2011 - 05/2012)
@@ -26,10 +29,11 @@ Work experience
   
 Skills
 ======
-* Programming
-  * Python, MATLAB, R, SQL
-* Signal Processing
-* GitHub, Bitbucket, Jira, Confluence
+**Programming** : Python, MATLAB, R, Git, SQL  
+**Software** : GitHub, Bitbucket, Jira, Confluence, Tableau, PowerBI, MS Office, GSuite  
+**Data Science** : PANDAS, SKLearn, AWS, S3, RedShift, DynamoDB, MongoDB  
+**Research** : EEG, EOG, EMG, Signal Processing, Time-Series Analysis, Spectral Analysis, Microphones, Accelerometers  
+**Processes** : Agile
 
 Publications
 ======
