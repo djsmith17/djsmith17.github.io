@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computational Neuroscience, Boston University, 2020
-  * Primary Investigator: Frank Guenther, PhD, Speech Lab
+  * Thesis Title: *The Roles of Auditory and Somatosensory Feedback in Vocal Motor Control*
 * B.S. in Biomedical Engineering, Boston University, 2012
 
 Work experience
