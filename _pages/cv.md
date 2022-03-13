@@ -51,7 +51,7 @@ Awards
 ======
 * 2017 - Boston University Graduate Medical Sciences Travel Award
 * 2015 - NIH Research Supplement to Promote Diversity in Health-Related Research (R01DC002852)
-* 2015 - Henry I. Russek Student Acheievement Day Award (Third Place)
+* 2015 - Henry I. Russek Student Achievement Day Award (Third Place)
 * 2014 - Boston University CompNet Travel Award
 * 2013 - Computational Neuroscience Fellowship
 * 2008 - Eagle Scout Award
