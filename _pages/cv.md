@@ -35,6 +35,12 @@ Skills
 **Research** : EEG, EOG, EMG, Signal Processing, Time-Series Analysis, Spectral Analysis, Microphones, Accelerometers  
 **Processes** : Agile
 
+Certifications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -44,8 +50,8 @@ Publications
 Awards
 ======
 * 2017 - Boston University Graduate Medical Sciences Travel Award
-* 2015 - NIH Research Supplement to Promote Diversity in Health-Related Research (R01DC002852)
-* 2015 - Henry I. Russek Student Achievement Day Award (Third Place)
+* 2015 - NIH Research Supplement to Promote Diversity in Health-Related Research (R01DC002852; $33,000 over 1 year)
+* 2015 - Henry I. Russek Student Achievement Day Award (Third Place; $300)
 * 2014 - Boston University CompNet Travel Award
-* 2013 - Computational Neuroscience Fellowship
+* 2013 - Computational Neuroscience Fellowship ($93,000 over 2 years)
 * 2008 - Eagle Scout Award
