@@ -41,12 +41,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Awards
 ======
 * 2017 - Boston University Graduate Medical Sciences Travel Award
