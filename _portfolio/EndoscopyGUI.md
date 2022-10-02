@@ -1,6 +1,6 @@
 ---
 title: "Endoscopy GUI"
-excerpt: "An example of my GUI design for studying changes in Larynx Position<br/><img src='/images/VideoGUI.png'>"
+excerpt: "Graphical User Interface for studying changes in Larynx Position<br/><img src='/images/VideoGUI_small.jpg'>"
 collection: portfolio
 ---
 
@@ -8,6 +8,6 @@ A portion of my dissertation project required a supplementary experiment which e
 
 In pursuit of defining the extent that the larynx moved to this type of stimulus, I developed a GUI to more easily work with and create manual measures. Below is an example of what the GUI looks like before any video is loaded in. 
 
-![VideoGUI](/djsmith17.github.io/images/VideoGUI.jpg)
+![VideoGUI](/images/VideoGUI.jpg)
 
 Keywords: Laryngscopy, Video, GUI
