@@ -12,5 +12,6 @@ You can find a link to my first authored publication, Smith et Al. 2020, [here](
 
 Below is an example figure from this project which highlights some of the techniques used in the data analysis, including Signal Processing, Statistics, and data visualization.
 
+![Figure3a](../images/Figure3a.png)
 
 Keywords: Data Analysis, Data Visualization, Signal Processing, Statistics
