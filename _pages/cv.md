@@ -29,11 +29,61 @@ Work experience
   
 Skills
 ======
-**Programming** : Python, MATLAB, R, Git, SQL  
-**Software** : GitHub, Bitbucket, Jira, Confluence, Tableau, PowerBI, MS Office, GSuite  
-**Data Science** : PANDAS, SKLearn, AWS, S3, RedShift, DynamoDB, MongoDB  
-**Research** : EEG, EOG, EMG, Signal Processing, Time-Series Analysis, Spectral Analysis, Microphones, Accelerometers  
-**Processes** : Agile
+
+**Programming**
+
+<ul class="badge-list">
+  <li class="badge">Python</li>
+  <li class="badge">MATLAB</li>
+  <li class="badge">R</li>
+  <li class="badge">Git</li>
+  <li class="badge">SQL</li>
+</ul>
+
+**Data Science**
+
+<ul class="badge-list">
+  <li class="badge badge--green">Pandas</li>
+  <li class="badge badge--green">scikit-learn</li>
+  <li class="badge badge--green">AWS</li>
+  <li class="badge badge--green">S3</li>
+  <li class="badge badge--green">Redshift</li>
+  <li class="badge badge--green">DynamoDB</li>
+  <li class="badge badge--green">MongoDB</li>
+</ul>
+
+**Software**
+
+<ul class="badge-list">
+  <li class="badge">GitHub</li>
+  <li class="badge">Bitbucket</li>
+  <li class="badge">Jira</li>
+  <li class="badge">Confluence</li>
+  <li class="badge">Tableau</li>
+  <li class="badge">Power BI</li>
+  <li class="badge">MS Office</li>
+  <li class="badge">GSuite</li>
+</ul>
+
+**Research**
+
+<ul class="badge-list">
+  <li class="badge badge--green">EEG</li>
+  <li class="badge badge--green">EOG</li>
+  <li class="badge badge--green">EMG</li>
+  <li class="badge badge--green">Signal Processing</li>
+  <li class="badge badge--green">Time-Series Analysis</li>
+  <li class="badge badge--green">Spectral Analysis</li>
+  <li class="badge badge--green">Microphones</li>
+  <li class="badge badge--green">Accelerometers</li>
+</ul>
+
+**Process**
+
+<ul class="badge-list">
+  <li class="badge">Agile</li>
+</ul>
+
 
 Certifications
 ======

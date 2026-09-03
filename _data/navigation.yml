@@ -3,11 +3,14 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Certifications"
-    url: /certifications/
-
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Certifications"
+    url: /certifications/
+
+  - title: "Blog"
+    url: /year-archive/

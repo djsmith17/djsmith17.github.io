@@ -60,11 +60,18 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+/* academic + data science / bioscience identity: deep navy, teal, and green accents */
+$navy                       : #14273b;
+$navy-dark                  : #0a1622;
+$teal                       : #2a9d8f;
+$teal-bright                : #4fd1c5;
+$bio-green                  : #3ba776;
+
+$primary-color              : $navy;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : $teal;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +97,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $teal;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : #f5f7fa;
+$masthead-link-color-hover  : $teal-bright;
 
 
 /*

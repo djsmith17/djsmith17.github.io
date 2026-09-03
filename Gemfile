@@ -16,8 +16,6 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
@@ -26,4 +24,7 @@ group :jekyll_plugins do
   gem 'hawkins'
 end
 
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]
+gem "tzinfo-data"
+
+# webrick was removed from Ruby's stdlib in 3.0+; jekyll serve needs it explicitly
+gem "webrick"
